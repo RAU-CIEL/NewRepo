@@ -13,5 +13,5 @@ public :
 	void SetCote(unsigned int cote1);
 	int Getsx();
 	int Getsy();
-	unsigned int
+	unsigned int GetCote();
 };
