@@ -65,7 +65,7 @@ void CCarre::Deplacer(char direction, int saut)
         sx -= saut;
         break;
     case 'e':  // Est
-        // Déplacer vers la d
+        // Déplacer vers la dr
         sx += saut;
         break;
     default:
